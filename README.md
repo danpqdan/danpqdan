@@ -1,5 +1,11 @@
-## Hi there 👋
+💻 Desenvolvedor Back-end | 🚀 Focado em Java e Python para desenvolvimento web, desktop e soluções empresariais.
 
+## 📊 Estatísticas do GitHub  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+
+## 🌎 Onde me encontrar  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danpqdan)  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=website)](https://dsplayground.com.br)
 <!--
 **danpqdan/danpqdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
